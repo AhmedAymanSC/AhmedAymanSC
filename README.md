@@ -32,7 +32,6 @@ ASP.NET Core MVC EF Core ASP.NET Identity
 A 3D intelligent healthcare platform integrating 3 AI models (symptom extraction, specialty recommendation, emergency severity detection) with a full patient/doctor/admin system. Designed REST APIs connecting an Angular frontend to Python-based AI models.
 ASP.NET Core Angular Python (AI) SQLite
 
-كده كل حاجة تحت "About Me" جاهزة تتحط في الأداة دفعة واحدة. لو عندك روابط GitHub للمشاريع، ابعتهاليّ وأضيفها كـ links.Want to be notified when Claude responds?
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahmed Ayman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibn__ayman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ayman-a666893a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedaymanmohmed.sc@gmail.com) 
 
